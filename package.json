@@ -1,0 +1,22 @@
+{
+  "name": "web_automation_cypress",
+  "version": "1.0.0",
+  "description": "Web Automation",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chewbarcco/web_automation_cypress.git"
+  },
+  "author": "Marco Brum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chewbarcco/web_automation_cypress/issues"
+  },
+  "homepage": "https://github.com/chewbarcco/web_automation_cypress#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
