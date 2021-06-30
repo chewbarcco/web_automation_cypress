@@ -1,0 +1,19 @@
+#1. Melhoria: Paginação na Listagem de professores
+
+- Problema: Ao acessar a listagem "Por Professor" o sistema possui um leve problema de performance
+ao realizar a listagem de professores. Isso irá agravar ainda mais 
+conforme a quantidade de professores for crescendo.
+
+- Sugestão de melhoria: Adicionar paginação no endpoint que realiza a listagem de professores. E fazer o ajuste na interface,
+talvez limitando a 10 professores por página.
+
+
+#2. Melhoria: Filtro na listagem de professores
+
+- Problema: Na tela de listagem "Por Professor", o sistema exibe para o usuário todos os professores cadastrados na base.
+Uma listagem enorme, dificulta o usuário a encontrar determinando professor.
+
+- Sugestão de melhoria: Adcionar um filtro por nome, no topo da listagem. 
+
+
+Evidências podem ser verificadas na pasta de evidências.

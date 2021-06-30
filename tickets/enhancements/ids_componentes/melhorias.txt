@@ -1,0 +1,9 @@
+#1. Melhoria: Criação de ids únicos para os componentes da interface
+
+- Problema: O componentes de tela não possuem ids ou atributos únicos, que possam facilitar o trabalho de automação.
+Isso torna a utilização dos seletores altamente frágeis, pois os elementos estão sujeitos a alterações.
+
+- Sugestão de melhoria: Criação de atributos data-* para fornecer contexto aos seletores e isolá-los das alterações de CSS ou JS.
+Isso é uma boa pratica e fundamental para a automação web de interfaces.
+
+Evidências podem ser verificadas na pasta de evidências.
