@@ -1,0 +1,13 @@
+
+#1. Caso de teste: Validar se o número de cursos disponíveis na listagem, bate com a quantidade na página de detalhes.
+Pré-requisito: --
+
+Steps:
+1. Acessar a home da estratégia: https://www.estrategiaconcursos.com.br/;
+2. Utilizar a busca "Por Matéria";
+3. Acessar os cursos da matéria "Administração pessoal";
+4. Validar se a quantidade de cursos disponíveis, é com o mesmo na página de detalhes.
+
+Expected result: A quantidade de cursos disponíveis especificado abaixo do título do curso, deverá ser a mesma exibida na listagem.
+
+## Possui bug anexado.

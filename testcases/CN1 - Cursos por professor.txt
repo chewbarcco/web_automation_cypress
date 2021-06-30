@@ -1,0 +1,24 @@
+
+#1. Caso de teste: Validar se o valor do curso na listagem de cursos bate com o valor da página de detalhes do curso
+Pré-requisito: --
+
+Steps:
+1. Acessar a home da estratégia: https://www.estrategiaconcursos.com.br/;
+2. Utilizar a busca "Por Professor";
+3. Acessar os cursos da professora "Ena Loiola";
+4. Escolha um dos cursos que estarão disponíveis;
+5. Validar se o valor do curso na listagem de cursos da professora bate com o valor da página de detalhes do curso.
+
+Expected result: O valor do curso na listagem de cursos deverá bater com o valor da página de detalhes do curso.
+
+
+#2. Caso de teste: Validar se o valor parcelado do curso bate com o valor total do curso.
+Pré-requisito: --
+
+Steps:
+1. Acessar a home da estratégia: https://www.estrategiaconcursos.com.br/;
+2. Utilizar a busca "Por Professor";
+3. Acessar os cursos da professora "Ena Loiola";
+4. Validar se o valor parcelado do curso bate com o valor total do curso.
+
+Expected result: O valor parcelado do curso deverá bater com o valor total do curso.

@@ -1,0 +1,13 @@
+
+#1. Caso de teste: Validar filtro por cursos na página de detalhes para cursos por Concursos.
+Pré-requisito: --
+
+Steps:
+1. Acessar a home da estratégia: https://www.estrategiaconcursos.com.br/;
+2. Utilizar a busca "Por Concursos";
+3. Acessar os cursos da matéria "Receita Federal";
+4. Descer a tela até onde a tab Pacotes estará selecionada por defaul;
+5. Selecionar a tab Cursos;
+4. Realizar um filtro pelo curso "Direito Civil p/ Receita Federal (Auditor Fiscal) 2021 - Pré-Edital";
+
+Expected result: Apenas o curso especificado no filtro, deverá ser listado.

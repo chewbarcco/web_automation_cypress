@@ -1,0 +1,11 @@
+#1. BUG TITLE: o número de cursos disponíveis na listagem, difere com a quantidade exibida na página de detalhes.
+
+Steps:
+1. Acessar a home da estratégia: https://www.estrategiaconcursos.com.br/;
+2. Utilizar a busca "Por Matéria";
+3. Acessar os cursos da matéria "Administração pessoal" onde é exibido possuír 5 cursos disponíveis;
+4. A quantidade de cursos disponíveis na tela de detalhes é de 36 cursos dispoíveis, diferente do exibido na tela anterior.
+
+Expected result: A quantidade de cursos disponíveis especificado abaixo do título do curso, deverá ser a mesma exibida na listagem.
+
+Evidências anexadas.
