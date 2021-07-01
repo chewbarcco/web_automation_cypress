@@ -5,8 +5,8 @@ Pré-requisito: --
 Steps:
 1. Acessar a home da estratégia: https://www.estrategiaconcursos.com.br/;
 2. Utilizar a busca "Por Concursos";
-3. Acessar os cursos da matéria "Receita Federal";
-4. Descer a tela até onde a tab Pacotes estará selecionada por defaul;
+3. Acessar os cursos do concurso "Receita Federal";
+4. Descer a tela até onde a tab Pacotes estará selecionada por default;
 5. Selecionar a tab Cursos;
 4. Realizar um filtro pelo curso "Direito Civil p/ Receita Federal (Auditor Fiscal) 2021 - Pré-Edital";
 

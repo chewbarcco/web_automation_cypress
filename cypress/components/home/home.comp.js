@@ -1,0 +1,1 @@
+export const getByConcoursePage = () => cy.get(".nav-header-links").contains("Por concurso")

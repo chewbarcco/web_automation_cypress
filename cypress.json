@@ -1,1 +1,12 @@
-{}
+{
+    "defaultCommandTimeout": 60000,
+    "pageLoadTimeout": 90000,
+    "responseTimeout": 60000,
+    "numTestsKeptInMemory": 5,
+    "chromeWebSecurity": false,
+    "ignoreTestFiles": [
+        "*.json",
+        "*.txt"
+    ]
+    
+}
